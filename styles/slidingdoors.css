@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+	height:477px;
+	margin:0 auto;/*使容器在画面重甲显示*/
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	overflow:hidden;
+	position:relative;
+	}
+	
+#container img{
+	position:absolute;
+	display:block;
+	left:0px;
+	border-left:1px solid #ccc;
+	}
+
